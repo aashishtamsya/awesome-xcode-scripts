@@ -30,7 +30,7 @@ A curated list of useful xcode scripts 📝.
 1. Download the zip or clone the repo to your desired directory.
 
 ```sh
-$ git clone *https://github.com/aashishtamsya/awesome-xcode-scripts.git*
+$ git clone https://github.com/aashishtamsya/awesome-xcode-scripts.git
 ```
 
 
@@ -49,4 +49,6 @@ $ git clone *https://github.com/aashishtamsya/awesome-xcode-scripts.git*
 
 ## License
 
-The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](https://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
+The content of [*Awesome Xcode Scripts*](https://github.com/aashishtamsya/awesome-xcode-scripts) itself is licensed under the [Creative Commons Attribution 3.0 license](https://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
+
+See the [LICENSE](LICENSE.md) file for more info.
