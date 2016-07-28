@@ -13,6 +13,7 @@ A curated list of useful xcode scripts 📝.
 
 -	[Scripts](#scripts)
 	-	[Build Versioning](#build-versioning)
+	-	[Build Number on Git Commit](#build-number-on-git-commit)
 -	[Installation](#installation)
 -	[Contributing](#contributing)
 -	[Credits](#credits)
@@ -24,6 +25,14 @@ A curated list of useful xcode scripts 📝.
 ### Build Versioning
 
 *	[BuildVersion.sh](BuildVersion.sh)	-	A script that runs each time you build your app in Xcode to read the Build number, increment it, and write it back to the app's `{App}-Info.plist` file.
+
+### Build Number on Git Commit
+
+* []() - A script that runs each time you commit your app to git, the Build number gets incremented.
+
+> **CAUTION**
+>
+> Use this only if you are pushing you code to git.
 
 ## Installation
 
@@ -44,8 +53,8 @@ $ git clone https://github.com/aashishtamsya/awesome-xcode-scripts.git
   
 ## Credits
   
-*	BuildVersion.sh	- [nekno](http://stackoverflow.com/users/110776/nekno)
-
+*	Build Versioning - [BuildVersion.sh](/BuildVersion.sh)	- [nekno](http://stackoverflow.com/users/110776/nekno)
+*	Build Number on Git Commit - [BuildNumberOnGitCommit.sh](/BuildNumberOnGitCommit.sh)	- [Jared Sinclair](http://jaredsinclair.com/)
 
 ## License
 
