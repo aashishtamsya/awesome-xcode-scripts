@@ -28,7 +28,7 @@ A curated list of useful xcode scripts 📝.
 
 ### Build Number on Git Commit
 
-* []() - A script that runs each time you commit your app to git, the Build number gets incremented.
+* [BuildNumberOnGitCommit.sh](BuildNumberOnGitCommit.sh) - A script that runs each time you commit your app to git, the Build number gets incremented.
 
 > **CAUTION**
 >
@@ -41,7 +41,6 @@ A curated list of useful xcode scripts 📝.
 ```sh
 $ git clone https://github.com/aashishtamsya/awesome-xcode-scripts.git
 ```
-
 
 ## Contributing
 
