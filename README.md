@@ -1,5 +1,9 @@
 # Xcode Scripts
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/aashishtamsya/Xcode-Scripts)
+[![Programming Language](https://img.shields.io/badge/language-shell-yellow.svg)]()
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](LICENSE.md)
+
 A curated list of useful xcode scripts.
 
 ## Content
