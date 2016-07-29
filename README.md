@@ -38,8 +38,8 @@ A curated list of useful xcode scripts 📝.
 
 *	(Optional) Rename your Run Scripts to identify them easily.
 
-![Rename](/Resouces/rename1.png)
-![Renamed](/Resouces/rename2.png)
+![Rename](/Resources/rename1.png)
+![Renamed](/Resources/rename2.png)
 
 
 
