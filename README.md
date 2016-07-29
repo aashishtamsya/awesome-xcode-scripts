@@ -62,11 +62,14 @@ $ git clone https://github.com/aashishtamsya/awesome-xcode-scripts.git
   
 ## Credits
   
-*	Build Number Autocrement Script - [BuildVersion.sh](/BuildVersion.sh)	- [Jason Horwitz](https://github.com/sekati)
+*	[**Build Number Autocrement Script**](/BuildVersion.sh) 
+	- [Jason Horwitz](https://github.com/sekati)
 
-*	Build Number Autocrement Script on Git Commit - [BuildNumberOnGitCommit.sh](/BuildNumberOnGitCommit.sh)	- [Jared Sinclair](http://jaredsinclair.com/)
+*	[**Build Number Autocrement Script on Git Commit**](/BuildNumberOnGitCommit.sh) 
+	- [Jared Sinclair](http://jaredsinclair.com/)
 
-*	Semantic Version Script - [VersionNumberIncrement.sh](/VersionNumberIncrement.sh)	- [Jason Horwitz](https://github.com/sekati)
+*	[**Semantic Version Script**](/VersionNumberIncrement.sh)	
+	- [Jason Horwitz](https://github.com/sekati)
 
 ## License
 
