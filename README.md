@@ -10,7 +10,7 @@ A curated list of useful xcode scripts 📝.
 
 ## Content
   
-
+-	[How to Setup](#how-to-setup)
 -	[Scripts](#scripts)
 	-	[Build Number Auto-Increment Script](#build-number-auto-increment-script)
 	-	[Build Number Auto-Increment Script on Git Commit](#build-number-auto-increment-script-on-git-commit)
@@ -21,15 +21,37 @@ A curated list of useful xcode scripts 📝.
 -	[License](#license)
   
   
-# Scripts 
+## How to Setup
+
+*	Open Xcode project. Select your target
+*	Build Phases -> Add Build Phase -> Add Run Script Build Phase
+
+![How to Setup](/Resources/howtosetup.png)
+
+*	Open "Run Script" section that was created and .
+
+![Run Script](/Resources/runscript.png)
+
+*	Copy & Paste your script there.
+
+![Copy Paste Script](/Resources/copypaste.png)
+
+*	(Optional) Rename your Run Scripts to identify them easily.
+
+![Rename](/Resouces/rename1.png)
+![Renamed](/Resouces/rename2.png)
+
+
+
+## Scripts 
 
 ### Build Number Auto-Increment Script
 
-*	[BuildVersion.sh](BuildVersion.sh)	-	A script that runs each time you build your app in Xcode to read the Build number, increment it, and write it back to the app's `{App}-Info.plist` file.
+*	[BuildVersion.sh](/Scripts/BuildVersion.sh)	-	A script that runs each time you build your app in Xcode to read the Build number, increment it, and write it back to the app's `{App}-Info.plist` file.
 
 ### Build Number Auto-Increment Script on Git Commit
 
-* [BuildNumberOnGitCommit.sh](BuildNumberOnGitCommit.sh) - A script that runs each time you commit your app to git, the Build number gets incremented.
+* [BuildNumberOnGitCommit.sh](/Scripts/BuildNumberOnGitCommit.sh) - A script that runs each time you commit your app to git, the Build number gets incremented.
 
 > **CAUTION**
 >
@@ -37,7 +59,7 @@ A curated list of useful xcode scripts 📝.
 
 ### Semantic Version Auto-Increment Script
 
-* [VersionNumberIncrement.sh](VersionNumberIncrement.sh) - Auto-increment the version number (only) when a project is archived for export.
+* [VersionNumberIncrement.sh](/Scripts/VersionNumberIncrement.sh) - Auto-increment the version number (only) when a project is archived for export.
 
 > **CAUTION**
 >
@@ -62,13 +84,13 @@ $ git clone https://github.com/aashishtamsya/awesome-xcode-scripts.git
   
 ## Credits
   
-*	[**Build Number Auto-Increment Script**](/BuildVersion.sh) 
+*	[**Build Number Auto-Increment Script**](/Scripts//BuildVersion.sh) 
 	- [Jason Horwitz](https://github.com/sekati)
 
-*	[**Build Number Auto-Increment Script on Git Commit**](/BuildNumberOnGitCommit.sh) 
+*	[**Build Number Auto-Increment Script on Git Commit**](/Scripts//BuildNumberOnGitCommit.sh) 
 	- [Jared Sinclair](http://jaredsinclair.com/)
 
-*	[**Semantic Version Auto-Increment Script**](/VersionNumberIncrement.sh)	
+*	[**Semantic Version Auto-Increment Script**](/Scripts//VersionNumberIncrement.sh)	
 	- [Jason Horwitz](https://github.com/sekati)
 
 ## License
