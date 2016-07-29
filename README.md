@@ -52,7 +52,7 @@ $ git clone https://github.com/aashishtamsya/awesome-xcode-scripts.git
   
 ## Credits
   
-*	Build Versioning - [BuildVersion.sh](/BuildVersion.sh)	- [nekno](http://stackoverflow.com/users/110776/nekno)
+*	Build Versioning - [BuildVersion.sh](/BuildVersion.sh)	- [Jason Horwitz](https://github.com/sekati)
 *	Build Number on Git Commit - [BuildNumberOnGitCommit.sh](/BuildNumberOnGitCommit.sh)	- [Jared Sinclair](http://jaredsinclair.com/)
 
 ## License
