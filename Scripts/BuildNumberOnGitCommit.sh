@@ -1,5 +1,5 @@
 # Credits : Jared Sinclair, https://www.jaredsinclair.com
-#
+#			Aashish Tamsya, aashish.tamsya@gmail.com
 #
 # Set the build number to the current git commit count.
 # If we're using the Dev scheme, then we'll suffix the build

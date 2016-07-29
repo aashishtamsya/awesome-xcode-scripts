@@ -1,4 +1,6 @@
 # Credits : Jason Horwitz, https://github.com/sekati
+#			Aashish Tamsya, aashish.tamsya@gmail.com
+#
 #
 # BuildVersion.sh
 # @desc Auto-increment the build number every time the project is run. 

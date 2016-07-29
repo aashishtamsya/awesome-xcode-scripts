@@ -1,6 +1,8 @@
 # Credits : Jason Horwitz, https://github.com/sekati
+#			Aashish Tamsya, aashish.tamsya@gmail.com
 #
-# xcode-version-bump.sh
+#
+# VersionNumberIncrement.sh
 # @desc Auto-increment the version number (only) when a project is archived for export. 
 # @usage
 # 1. Select: your Target in Xcode

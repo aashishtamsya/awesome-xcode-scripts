@@ -19,8 +19,7 @@ A curated list of useful xcode scripts 📝.
 -	[Contributing](#contributing)
 -	[Credits](#credits)
 -	[License](#license)
-  
-  
+
 ## How to Setup
 
 *	Open Xcode project. Select your target
@@ -30,10 +29,6 @@ A curated list of useful xcode scripts 📝.
 *	(Optional) Rename your Run Scripts to identify them easily.
 
 ![DEMO](/Resources/DEMO.gif)
-
-
-
-
 
 ## Scripts 
 
@@ -84,6 +79,9 @@ $ git clone https://github.com/aashishtamsya/awesome-xcode-scripts.git
 
 *	[**Semantic Version Auto-Increment Script**](/Scripts//VersionNumberIncrement.sh)	
 	- [Jason Horwitz](https://github.com/sekati)
+	
+Aashish Tamsya [@ChiefAashish](https://www.twitter.com/chiefaashish),
+aashish.tamsya@gmail.com 
 
 ## License
 
