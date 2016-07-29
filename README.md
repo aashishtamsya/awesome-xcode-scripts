@@ -34,6 +34,15 @@ A curated list of useful xcode scripts 📝.
 >
 > Use this only if you are pushing you code to git.
 
+### Version Number Increment Script
+
+* [VersionNumberIncrement.sh](VersionNumberIncrement.sh) - Auto-increment the version number (only) when a project is archived for export.
+
+> **CAUTION**
+>
+> Insure your starting version number is in SemVer format (e.g. 1.0.0)
+
+
 ## Installation
 
 1. Download the zip or clone the repo to your desired directory.
@@ -53,7 +62,10 @@ $ git clone https://github.com/aashishtamsya/awesome-xcode-scripts.git
 ## Credits
   
 *	Build Versioning - [BuildVersion.sh](/BuildVersion.sh)	- [Jason Horwitz](https://github.com/sekati)
+
 *	Build Number on Git Commit - [BuildNumberOnGitCommit.sh](/BuildNumberOnGitCommit.sh)	- [Jared Sinclair](http://jaredsinclair.com/)
+
+*	Version Number Increment Script - [VersionNumberIncrement.sh](/VersionNumberIncrement.sh)	- [Jason Horwitz](https://github.com/sekati)
 
 ## License
 
