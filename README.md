@@ -25,21 +25,13 @@ A curated list of useful xcode scripts 📝.
 
 *	Open Xcode project. Select your target
 *	Build Phases -> Add Build Phase -> Add Run Script Build Phase
-
-![How to Setup](/Resources/howtosetup.png)
-
 *	Open "Run Script" section that was created and .
-
-![Run Script](/Resources/runscript.png)
-
 *	Copy & Paste your script there.
-
-![Copy Paste Script](/Resources/copypaste.png)
-
 *	(Optional) Rename your Run Scripts to identify them easily.
 
-![Rename](/Resources/rename1.png)
-![Renamed](/Resources/rename2.png)
+![DEMO](/Resources/DEMO.gif)
+
+
 
 
 
