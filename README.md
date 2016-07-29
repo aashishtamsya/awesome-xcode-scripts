@@ -12,9 +12,9 @@ A curated list of useful xcode scripts 📝.
   
 
 -	[Scripts](#scripts)
-	-	[Build Number Autocrement Script](#build-number-autocrement-script)
-	-	[Build Number Autocrement Script on Git Commit](#build-number-autocrement-script-on-git-commit)
-	-	[Semantic Version Script](#semantic-version-script)
+	-	[Build Number Auto-Increment Script](#build-number-auto-increment-script)
+	-	[Build Number Auto-Increment Script on Git Commit](#build-number-auto-increment-script-on-git-commit)
+	-	[Semantic Version Auto-Increment Script](#semantic-version-auto-increment-script)
 -	[Installation](#installation)
 -	[Contributing](#contributing)
 -	[Credits](#credits)
@@ -23,11 +23,11 @@ A curated list of useful xcode scripts 📝.
   
 # Scripts 
 
-### Build Number Autocrement Script
+### Build Number Auto-Increment Script
 
 *	[BuildVersion.sh](BuildVersion.sh)	-	A script that runs each time you build your app in Xcode to read the Build number, increment it, and write it back to the app's `{App}-Info.plist` file.
 
-### Build Number Autocrement Script on Git Commit
+### Build Number Auto-Increment Script on Git Commit
 
 * [BuildNumberOnGitCommit.sh](BuildNumberOnGitCommit.sh) - A script that runs each time you commit your app to git, the Build number gets incremented.
 
@@ -35,7 +35,7 @@ A curated list of useful xcode scripts 📝.
 >
 > Use this only if you are pushing you code to git.
 
-### Semantic Version Script
+### Semantic Version Auto-Increment Script
 
 * [VersionNumberIncrement.sh](VersionNumberIncrement.sh) - Auto-increment the version number (only) when a project is archived for export.
 
@@ -62,13 +62,13 @@ $ git clone https://github.com/aashishtamsya/awesome-xcode-scripts.git
   
 ## Credits
   
-*	[**Build Number Autocrement Script**](/BuildVersion.sh) 
+*	[**Build Number Auto-Increment Script**](/BuildVersion.sh) 
 	- [Jason Horwitz](https://github.com/sekati)
 
-*	[**Build Number Autocrement Script on Git Commit**](/BuildNumberOnGitCommit.sh) 
+*	[**Build Number Auto-Increment Script on Git Commit**](/BuildNumberOnGitCommit.sh) 
 	- [Jared Sinclair](http://jaredsinclair.com/)
 
-*	[**Semantic Version Script**](/VersionNumberIncrement.sh)	
+*	[**Semantic Version Auto-Increment Script**](/VersionNumberIncrement.sh)	
 	- [Jason Horwitz](https://github.com/sekati)
 
 ## License
