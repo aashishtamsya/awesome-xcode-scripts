@@ -15,6 +15,8 @@ A curated list of useful xcode scripts 📝.
 	-	[Build Number Auto-Increment Script](#build-number-auto-increment-script)
 	-	[Build Number Auto-Increment Script on Git Commit](#build-number-auto-increment-script-on-git-commit)
 	-	[Semantic Version Auto-Increment Script](#semantic-version-auto-increment-script)
+	-	[AppIcon Versioning Auto-Increment Script](#appicon-versioning-auto-increment-script)
+	
 -	[Installation](#installation)
 -	[Contributing](#contributing)
 -	[Credits](#credits)
@@ -53,6 +55,10 @@ A curated list of useful xcode scripts 📝.
 > Insure your starting version number is in SemVer format (e.g. 1.0.0)
 
 
+### AppIcon Versioning Auto-Increment Script
+
+* [IconVersioning.sh](/Scripts/IconVersioning.sh) - Overlay the iOS application version on top of the icon.
+
 ## Installation
 
 1. Download the zip or clone the repo to your desired directory.
@@ -79,6 +85,10 @@ $ git clone https://github.com/aashishtamsya/awesome-xcode-scripts.git
 
 *	[**Semantic Version Auto-Increment Script**](/Scripts//VersionNumberIncrement.sh)	
 	- [Jason Horwitz](https://github.com/sekati)
+	
+*	[**AppIcon Versioning Auto-Increment Script**](/Scripts//IconVersioning.sh)	
+	- [Krzysztof Zabłocki](http://merowing.info/2013/03/overlaying-application-version-on-top-of-your-icon/)
+	-	# Inspired by [@merowing](http://www.merowing.info/2013/03/overlaying-application-version-on-top-of-your-icon/#.VCg9li5_v6A) and [@bejo](https://github.com/bejo/XcodeIconTagger/blob/master/tagIcons.sh) script, who were inspired initially by Evan Doll's talk
 	
 Aashish Tamsya [@ChiefAashish](https://www.twitter.com/chiefaashish),
 aashish.tamsya@gmail.com 
