@@ -87,8 +87,7 @@ $ git clone https://github.com/aashishtamsya/awesome-xcode-scripts.git
 	- [Jason Horwitz](https://github.com/sekati)
 	
 *	[**AppIcon Versioning Auto-Increment Script**](/Scripts//IconVersioning.sh)	
-	- [Krzysztof Zabłocki](http://merowing.info/2013/03/overlaying-application-version-on-top-of-your-icon/)
-	-	# Inspired by [@merowing](http://www.merowing.info/2013/03/overlaying-application-version-on-top-of-your-icon/#.VCg9li5_v6A) and [@bejo](https://github.com/bejo/XcodeIconTagger/blob/master/tagIcons.sh) script, who were inspired initially by Evan Doll's talk
+	-	Inspired by [@merowing](http://www.merowing.info/2013/03/overlaying-application-version-on-top-of-your-icon/#.VCg9li5_v6A) and [@bejo](https://github.com/bejo/XcodeIconTagger/blob/master/tagIcons.sh) script, who were inspired initially by Evan Doll's talk
 	
 Aashish Tamsya [@ChiefAashish](https://www.twitter.com/chiefaashish),
 aashish.tamsya@gmail.com 
