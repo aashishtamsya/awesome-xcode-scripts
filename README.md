@@ -16,7 +16,7 @@ A curated list of useful xcode scripts 📝.
 	-	[Build Number Auto-Increment Script on Git Commit](#build-number-auto-increment-script-on-git-commit)
 	-	[Semantic Version Auto-Increment Script](#semantic-version-auto-increment-script)
 	-	[AppIcon Versioning Auto-Increment Script](#appicon-versioning-auto-increment-script)
-	
+	-	[Detect FixMe ToDo Error Tag on Swift Script](#detect-fixme-todo-error-tag-on-swift-script)	
 -	[Installation](#installation)
 -	[Contributing](#contributing)
 -	[Credits](#credits)
@@ -58,6 +58,10 @@ A curated list of useful xcode scripts 📝.
 ### AppIcon Versioning Auto-Increment Script
 
 * [IconVersioning.sh](/Scripts/IconVersioning.sh) - Overlay the iOS application version on top of the icon.
+
+### Detect FixMe ToDo Error Tag On Swift Script
+
+* [DetectFixMeToDoSwift.sh](/Scripts/DetectFixMeToDoSwift.sh)
 
 ## Installation
 
