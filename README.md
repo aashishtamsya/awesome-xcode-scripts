@@ -6,7 +6,7 @@
 [![Programming Language](https://img.shields.io/badge/language-shell-yellow.svg)](https://en.wikipedia.org/wiki/Shell_script)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
-A curated list of useful xcode scripts 📝.
+A curated list of useful Xcode scripts 📝.
 
 ## Content
   
